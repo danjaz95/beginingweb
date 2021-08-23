@@ -1,0 +1,47 @@
+/* SubscribeButton */
+.btn-secondary {
+  color: black;
+  background-color: orange;
+  margin-left: 15px;
+}
+
+body {
+  background-color: #f8f9fa;
+  /* Positioning of page */
+  margin-right: 150px;
+  margin-left: 150px;
+}
+
+.container {
+  padding-top: 50px;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+.Title-box {
+  font-size: 20px;
+}
+
+.User-img {
+  margin-top: 15px;
+}
+
+.User-details {
+  font-size: 15px;
+  display: inline-flex;
+  margin-left: 10px;
+}
+
+.bottom-p {
+  padding-right: 30px;
+}
+
+.bottom-heading {
+  padding-top: 20px;
+}
+
+.bottom-bar {
+  padding-top: 100px;
+}
